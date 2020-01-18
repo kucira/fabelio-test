@@ -1,0 +1,13 @@
+{
+    "include": [
+        "./src/*"
+    ],
+    "compilerOptions": {
+        "target": "es2020",
+        "jsx": "react",
+        "module": "commonjs"
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
